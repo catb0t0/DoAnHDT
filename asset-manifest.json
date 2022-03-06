@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DoAnHDT/static/css/main.06e7aaed.css",
+    "main.js": "/DoAnHDT/static/js/main.f0d3a48d.js",
+    "static/media/logo.png": "/DoAnHDT/static/media/logo.41dc980b52dd84191800.png",
+    "static/media/avt.png": "/DoAnHDT/static/media/avt.e6a4f4fd837bf1c5555b.png",
+    "index.html": "/DoAnHDT/index.html",
+    "main.06e7aaed.css.map": "/DoAnHDT/static/css/main.06e7aaed.css.map",
+    "main.f0d3a48d.js.map": "/DoAnHDT/static/js/main.f0d3a48d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e7aaed.css",
+    "static/js/main.f0d3a48d.js"
+  ]
+}
